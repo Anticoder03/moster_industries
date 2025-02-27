@@ -34,7 +34,7 @@ The Moster Industries website is a dynamic and responsive platform designed to s
 ## Contact & Support  
 For any queries, feature requests, or technical support, feel free to reach out to us:  
 
-📧 **Email:** [techfellows05@gmail.com](mailto:techfellows05@gmail.com)  
+📧 **Email:** [techfellows05@gmail.com](mailto:officialtechfellows@gmail.com)  
 📧 **Permission Requests:** [ap5381545@gmail.com](mailto:ap5381545@gmail.com)  
 🌐 **Website:** (Coming Soon)  
 
