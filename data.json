@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "Ceramic Coated Pay Off Pulley",
+        "price": "₹3,200 / Piece",
+        "minOrder": "6 Piece",
+        "image": "./img/prod1-1.jpg",
+        "details": {
+            "productType": "Ceramic Coated Pulley",
+            "grooves": "Single Groove",
+            "usage": "Pay Off",
+            "capacity": "One Year Warranty",
+            "origin": "Made in India",
+            "description": "Used in bunching machines in cable industries.",
+            "additionalInfo": { "deliveryTime": "7 days" }
+        }
+    },
+    {
+        "id": 2,
+        "name": "100mm Black Ceramic Pulleys",
+        "price": "₹ 2,2000 / Unit",
+       
+        "image": "./img/prod2-1.jpg",
+        "details": {
+            "Usage/Application":"Cable Industries",
+            "Number Of Grooves":"Single Groove",
+            "Product Type":"Coper Wire guide Pulley",
+            "Diameter":"50mm",
+            "Capacity":"Warrenty One Year",
+            "Product Material":	"Ceramic Coated",
+            "description":"Thise Is A Guide Pulley For Cable Industries",           
+            "origin": "Made in India",
+            "additionalInfo": { "deliveryTime": "3-4 days" }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Capston Pulley With Ceramic Coated",
+        "price": "₹ 2,5000 / Unit",
+       
+        "image": "./img/prod3-1.jpg",
+        "details": {
+            "Product Type":	"Capstone Pulley",
+            "Usage/Application":	"Cable Industries",
+            "Number Of Grooves":	"Single Groove",
+            "Country of Origin":	"Made in India",
+            "description":"Thise Is A Guide Pulley For Cable Industries",           
+            "origin": "Made in India",
+            "additionalInfo": { "deliveryTime": "3-4 days" }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Flyer Pulley Ceramic Coated",
+        "price": "₹ 7,800/ Piece",
+        "minOrder": "1 Meter",
+        "image": "./img/prod4-1.jpg",
+        "details": {
+            "Material":"Aluminum",
+            "productType": "Ceramic coated",
+            "grooves": "Single Groove",
+            "Brand":"MOSTER METAL",
+            "origin": "Made in India",
+            "description": "This Parts Is Use RBD Machine In Cable Industries",
+            "additionalInfo": { "deliveryTime": "7 days" }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Ceramic Coated Multi Groove Pulley",
+        "price": "₹ 8,000/ Piece",
+        "minOrder": "1 Piece",
+        "image": "./img/prod5-1.jpg",
+        "details": {
+            "Material":"Aluminum",
+            "productType": "Plasma coated pulley",
+            "Number Of Grooves": "Multi-Groove",
+            "usage": "Rotating Machinery",
+            "capacity": "10,000 RPM",
+            "origin": "Made in India",
+            "Capacity":"Warrenty One Year",
+            "description": "Multy Groove Pulley Use In Cable Industries.",
+            "additionalInfo": { "deliveryTime": "3 days" }
+        }
+    }
+   
+    
+]
