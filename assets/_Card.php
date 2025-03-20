@@ -30,9 +30,19 @@
         height: 100%;
         width: 100%;
         background-color: rgba(0, 0, 0, 0.5);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
     }
     .layer:hover {
         background: linear-gradient(270deg, rgba(255, 255, 255, 0.5), #FC5A0A);
+    }
+    .layer h1 {
+        transition: 0.3s;
+    }
+    .layer:hover h1 {
+        color: black;
     }
     
     @media (max-width: 768px) {
@@ -44,26 +54,25 @@
 
 <div class="main">
     <div class="card_container p-4">
-        <div class="card card1">
-            <div class="layer p-4 flex flex-col justify-center">
+        <a href="Full_Card.php?card=1" class="card card1">
+            <div class="layer p-4">
                 <h1 class="text-4xl uppercase font-semibold text-white">Plasma coating process</h1>
             </div>
-        </div>
-        <div class="card card2">
-            <div class="layer p-4 flex flex-col justify-center">
+        </a>
+        <a href="Full_Card.php?card=2" class="card card2">
+            <div class="layer p-4">
                 <h1 class="text-4xl uppercase font-semibold text-white">Ceramic coating</h1>
             </div>
-        </div>
-        <div class="card card3">
-            <div class="layer p-4 flex flex-col justify-center">
+        </a>
+        <a href="Full_Card.php?card=3" class="card card3">
+            <div class="layer p-4">
                 <h1 class="text-4xl uppercase font-semibold text-white">Thermal spray process</h1>
             </div>
-        </div>
-        <div class="card card4">
-            <div class="layer p-4 flex flex-col justify-center">
-                <h1 class="text-4xl uppercase font-semibold text-white">Thermal spray process</h1>
+        </a>
+        <a href="Full_Card.php?card=4" class="card card4">
+            <div class="layer p-4">
+                <h1 class="text-4xl uppercase font-semibold text-white">Fuse & spray process</h1>
             </div>
-        </div>
+        </a>
     </div>
 </div>
-

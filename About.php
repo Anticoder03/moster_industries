@@ -8,7 +8,7 @@ include "./assets/_Nav.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us | Moster Industry</title>
+    <title>About Us | Moster Industries</title>
     <link rel="stylesheet" href="./assets/responsive.css">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
@@ -25,7 +25,7 @@ include "./assets/_Nav.php";
                 </h1>
                 <img src="./img/about.png" class="my-6 w-full rounded-lg shadow-lg" alt="About Us image">
                 <p class="text-gray-600 text-lg leading-relaxed">
-                    Moster Industry is a leader in high-quality industrial solutions. Our precision-engineered components ensure durability and efficiency, making us a trusted name in automated manufacturing.
+                    Moster Industries is a leader in high-quality industrial solutions. Our precision-engineered components ensure durability and efficiency, making us a trusted name in automated manufacturing.
                 </p>
             </div>
 
@@ -48,7 +48,7 @@ include "./assets/_Nav.php";
                     </h1>
                     <span class="uppercase text-xl md:text-2xl my-3 font-semibold">Innovative Solutions</span>
                     <p class="my-4 text-gray-600 text-lg leading-relaxed">
-                        At Moster Industry, we develop cutting-edge automation systems designed to optimize industrial performance and enhance efficiency.
+                        At Moster Industries, we develop cutting-edge automation systems designed to optimize industrial performance and enhance efficiency.
                     </p>
                 </div>
 

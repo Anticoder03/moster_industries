@@ -3,7 +3,7 @@
 <body>
     <div class=" flex justify-around align-center py-16">
         <div class="left">
-            <img src="https://ld-wt73.template-help.com/wt_prod-28718/images/logo-default-251x78.png" alt="logo" class="logo">
+            <!-- <img src="https://ld-wt73.template-help.com/wt_prod-28718/images/logo-default-251x78.png" alt="logo" class="logo"> -->
         </div>
         <div class="right align-center text-center flex flex-col">
            <span class="uppercase text-2xl text-dark font-bold">

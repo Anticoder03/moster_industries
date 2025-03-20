@@ -29,7 +29,7 @@
 
     <!-- Footer Bottom -->
     <div class="text-center text-sm text-gray-500 mt-8 border-t border-gray-700 pt-4">
-        Moster Industry © 2025 | 
+        Moster Industries © 2025 | 
         <a href="#" class="hover:underline">Privacy Policy</a>
         <br>
         Developed & Maintained by <span class="text-orange-500 font-bold">Tech Fellows</span>

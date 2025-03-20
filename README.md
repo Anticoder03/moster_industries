@@ -4,7 +4,7 @@
 **This project is proprietary and not for public use. Unauthorized copying, modification, or distribution is strictly prohibited.**  
 
 ## Overview  
-The Moster Industries website is a dynamic and responsive platform designed to showcase the company's products and provide essential information about the industry. This project ensures an engaging user experience with seamless navigation, modern animations, and optimized performance.  
+The Moster Industries website is a dynamic and responsive platform designed to showcase the company's products and provide essential information about the Industries. This project ensures an engaging user experience with seamless navigation, modern animations, and optimized performance.  
 
 ## Project Details  
 - **Project Start Date:** February 22, 2025  

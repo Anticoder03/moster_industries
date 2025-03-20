@@ -46,18 +46,18 @@
         </div>
         <div class="info flex flex-col md:flex-row justify-around mt-10 md:mt-20 gap-6">
             <p class="text-gray-500 w-full md:w-[45%]">
-                Moster Metal Coating Industry takes great pride in being a leader in manufacturing high-quality precision components for industrial applications. At the core of our business is a commitment to excellence, innovation, and reliability. We specialize in producing a wide range of industrial pulleys and machine parts designed to enhance efficiency and performance.
+                Moster Metal Coating Industries takes great pride in being a leader in manufacturing high-quality precision components for industrial applications. At the core of our business is a commitment to excellence, innovation, and reliability. We specialize in producing a wide range of industrial pulleys and machine parts designed to enhance efficiency and performance.
                 <br><br>
                 Our expertise extends across various precision-engineered products, including Ceramic Coated Multi Groove Pulleys, Aluminum Pulleys, Wire Drawing Machine Parts, Ceramic Coated Pulleys, Dancer Pulleys, Capstone Pulleys with Plasma Coating, Ceramic Coated Step Cones, Aluminum Buncher Pulleys, and Nickel Coated Contact Tubes.
                 <br><br>
-                At Moster Metal Coating Industry, customer satisfaction and precision engineering are at the heart of everything we do. Whether you need standard or custom-designed components, we are here to provide the best-in-class products that drive efficiency and productivity in your industry.
+                At Moster Metal Coating Industries, customer satisfaction and precision engineering are at the heart of everything we do. Whether you need standard or custom-designed components, we are here to provide the best-in-class products that drive efficiency and productivity in your Industries.
             </p>
             <p class="text-gray-500 w-full md:w-[45%]">
-                Moster Metal Coating Industry offers the most cost-effective, high-quality engineering and manufacturing solutions for industrial components. With our expertise in designing, precision machining, coating technologies, and prototyping, we help our customers enhance performance while reducing operational costs.
+                Moster Metal Coating Industries offers the most cost-effective, high-quality engineering and manufacturing solutions for industrial components. With our expertise in designing, precision machining, coating technologies, and prototyping, we help our customers enhance performance while reducing operational costs.
                 <br><br>
                 Our extensive range of pulleys and machine parts is crafted with cutting-edge technology to ensure superior durability and efficiency.
                 <br><br>
-                At Moster Metal Coating Industry, we are committed to delivering innovative solutions that align with industry standards and customer expectations. With a strong emphasis on quality, performance, and sustainability, our processes are designed to be both environmentally friendly and highly efficient.
+                At Moster Metal Coating Industries, we are committed to delivering innovative solutions that align with Industries standards and customer expectations. With a strong emphasis on quality, performance, and sustainability, our processes are designed to be both environmentally friendly and highly efficient.
             </p>
         </div>
     </section>
